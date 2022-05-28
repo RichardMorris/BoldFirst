@@ -1,4 +1,4 @@
-# boldFirstLetterOfWords
+# BoldFirst
 **M**akes **t**he **f**irst **l**etter **o**f **e**very **w**ord **b**old. 
 
 Hopefully it makes it easier for dyslexics to read the text.
